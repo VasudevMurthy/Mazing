@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:2:1-50:12
+	xmlns:tools
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:6:5-30
+	android:versionCode
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:8:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:8:15-40
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:10:22-65
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:12:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:13:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:14:30-85
+application
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:16:5-48:19
+	android:label
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:19:9-41
+	android:debuggable
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:17:9-34
+	android:icon
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:18:9-44
+	tools:ignore
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:20:9-42
+activity#com.greenleaves.mazing.ui.MazeActivity
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:21:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:24:13-45
+	android:configChanges
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:22:13-44
+activity#com.greenleaves.mazing.ui.MainMenuActivity
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:29:13-48
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:28:13-48
+activity#com.greenleaves.mazing.ui.MainSplashActivity
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:33:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:34:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.greenleaves.mazing.ui.CreditsActivity
+ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from C:\Users\windows 8 .1\AndroidStudioProjects\Mazing\app\src\main\AndroidManifest.xml:45:13-47
